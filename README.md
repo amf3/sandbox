@@ -7,6 +7,7 @@ Just a sandbox for testing GitHub integrations
 * [Another About](#another-about)
 * [How it works](#how-it- works)
 * [Section A](#section-a)
+* [Section B](#section-b)
      * [Subsection One](#subsection-1) 
 * [Conclusion](#conclusion)
 
