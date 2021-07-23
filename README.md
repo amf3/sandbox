@@ -3,12 +3,12 @@ Just a sandbox for testing GitHub integrations
 
 ## TOC
 
-* [About](About)
-* [Another About](Another About)
+* [About](#About)
+* [Another About](#Another About)
 * [How it works](#how it works)
 * [Section A](#section a)
-      * [Subsection One](#subsection) 
-* [Conclusion](conclusion)
+     * [Subsection One](#subsection) 
+* [Conclusion](#conclusion)
 
 
 ## About
