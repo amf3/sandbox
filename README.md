@@ -3,11 +3,11 @@ Just a sandbox for testing GitHub integrations
 
 ## TOC
 
-* [About](#About)
-* [Another About](#Another About)
-* [How it works](#how it works)
-* [Section A](#section a)
-     * [Subsection One](#subsection) 
+* [About](#about)
+* [Another About](#another-about)
+* [How it works](#how-it- works)
+* [Section A](#section-a)
+     * [Subsection One](#subsection-1) 
 * [Conclusion](#conclusion)
 
 
@@ -32,6 +32,12 @@ aa
 1) aaa
 2) bbbb 
 3) cccc
+
+## Section B
+
+- aaaa
+- bbbb
+- cccc
 
 ### Subsection 1
 
